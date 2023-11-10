@@ -24,7 +24,7 @@ In this game, two players compete to find the longest word using randomly drawn 
 
   - | **```TECHNOLOGY```** | 10-Letter Word
 
-### Example 2
+#### Example 2
 
 - RANDOMLY DRAWN LETTERS (Consonants & Vowels)
 
@@ -55,13 +55,13 @@ For example, with a string of 3 letters ```"ABC"```, we seek to obtain the follo
 
 - Consider the following procedure:
 
-  1) Starting from a given string, find the largest terminal substring that is in maximal order. Let ```i``` be the index of the letter that is to the left of this substring.
+  1. Starting from a given string, find the largest terminal substring that is in maximal order. Let ```i``` be the index of the letter that is to the left of this substring.
 
-  2) Find in the terminal substring located to the right of the ```ith``` letter, the closest to this ```ith``` letter among those which are superior to it. Let ```j``` be its index.
+  2. Find in the terminal substring located to the right of the ```ith``` letter, the closest to this ```ith``` letter among those which are superior to it. Let ```j``` be its index.
 
-  3) Swap the ```ith``` letter and the ```jth``` letter.
+  3. Swap the ```ith``` letter and the ```jth``` letter.
 
-  4) Rearrange the substring to the right of the ```ith``` letter so that it is in minimal order.
+  4. Rearrange the substring to the right of the ```ith``` letter so that it is in minimal order.
 
     - You have to start with a string in minimal order. 
 

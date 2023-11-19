@@ -7,3 +7,5 @@
 - [VisuAlgo](https://visualgo.net) online tool for visualizing data structures and algorithms through animation.
 
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) a webpage that covers the space and time Big-O complexities of common algorithms used in computer science.
+
+If you have difficulties working with C/C++, you can take this course (taught in French; video subtitles available in English): [Initiation à la programmation (en C++).](https://www.coursera.org/learn/initiation-programmation-cpp)

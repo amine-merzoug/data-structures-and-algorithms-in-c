@@ -25,7 +25,7 @@ int main(){
 // Sorts the given array using Selection Sort (time complexity O(N^2))
 void selection_sort(int arr[]){
     for (int i = 0; i < ARRAY_SIZE - 1; i++){
-        // Step 1: find the min in the remaining unsorted part of the array
+        // Step 1: find the min in the remaining unsorted array.
         int min_index = i;
         for (int j = i + 1; j < ARRAY_SIZE; j++){
             if (arr[j] < arr[min_index]){
@@ -33,7 +33,7 @@ void selection_sort(int arr[]){
             }
         }
 
-        // Step 2: swap the found min with the first element in the array
+        // Step 2: swap the found min with the first element in the remaining unsorted array.
         int temp = arr[min_index];
         arr[min_index] = arr[i];
         arr[i] = temp;

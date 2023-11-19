@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Breadth First Search (BFS)
+// Breadth-First Search (BFS)
 
 int main(){
     // Coming up soon..

@@ -1,5 +1,5 @@
-# include <stdio.h>
-# include <stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
   
 // Quiz: Dynamic variables - Dynamic memory allocation.
 // Try to find the output of this program before running it.
@@ -17,6 +17,6 @@ int main(){
 }
 
 void test_function(int **a){
-    *a = (int*) malloc(sizeof(int));
+    *a = (int*)malloc(sizeof(int));
     *(*a) = 8;
 }

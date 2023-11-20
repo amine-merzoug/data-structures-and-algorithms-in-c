@@ -33,7 +33,7 @@ In this game, two players compete to find the longest word using randomly drawn 
 
 ## Assigned work - Part 1
 
-The assigned work of Part 1 can be found [here.](../part_1/README.md)
+The assigned work of Part 1 can be found [here](../part_1/README.md).
 
 
 ## Assigned work - Part 2
@@ -42,7 +42,7 @@ The aim of this second part is to integrate the search using a dictionary to fin
 
 To be efficient, we represent the dictionary containing n-letter words by a planar tree, such that:
 
-- Each node in this tree has up to n children.
+- Each node in this tree has up to ```n``` children.
   
 - The relationship between a node and its ```ith``` child (if it exists) in terms of letters is that they have ```(i - 1)``` identical character(s) (same letter, same position).
 
@@ -53,6 +53,13 @@ To be efficient, we represent the dictionary containing n-letter words by a plan
     - Second child: 1 identical character.
 
     - nth child: n - 1 identical characters.
+
+  #### Illustrative example of a 3-letter dictionary/tree
+
+<div style="text-align:center">
+  <img src="./illustrative_example.png" alt="" width="35%">
+</div>
+
 
 ## Steps to follow
 

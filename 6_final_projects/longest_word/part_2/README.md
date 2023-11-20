@@ -54,7 +54,7 @@ To be efficient, we represent the dictionary containing n-letter words by a plan
 
     - nth child: n - 1 identical characters.
 
-  #### Illustrative example of a 3-letter dictionary/tree
+  ### Illustrative example of a 3-letter dictionary/tree
 
 <div align="center">
   <img src="./illustrative_example.png" alt="" width="35%">

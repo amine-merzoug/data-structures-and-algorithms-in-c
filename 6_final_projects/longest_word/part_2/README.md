@@ -56,7 +56,7 @@ To be efficient, we represent the dictionary containing n-letter words by a plan
 
   #### Illustrative example of a 3-letter dictionary/tree
 
-<div style="text-align:center">
+<div align="center">
   <img src="./illustrative_example.png" alt="" width="35%">
 </div>
 

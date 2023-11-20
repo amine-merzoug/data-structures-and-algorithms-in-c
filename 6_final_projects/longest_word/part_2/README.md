@@ -63,7 +63,7 @@ To be efficient, we represent the dictionary containing n-letter words by a plan
 
 ## Steps to follow
 
-- Download a free “```.txt```” or “```.csv```” file/dictionary containing all English words.
+- Download a free ```.txt``` or ```.csv``` file/dictionary containing all English words.
   
     - You can pick the language of your choice (Arabic, English, French, etc.).
   

@@ -1,7 +1,5 @@
 # Project - Longest Word
 
-## Part I
-
 In this game, two players compete to find the longest word using randomly drawn letters (consonants and vowels).
 
 ## Game principle 
@@ -14,7 +12,7 @@ In this game, two players compete to find the longest word using randomly drawn 
 - The goal is then to find the longest word possible using the drawn letters.
   
 
-#### Example 1
+  #### Example 1
 
 - RANDOMLY DRAWN LETTERS (Consonants & Vowels)
 
@@ -24,7 +22,7 @@ In this game, two players compete to find the longest word using randomly drawn 
 
   - | **```TECHNOLOGY```** | 10-Letter Word
 
-#### Example 2
+  #### Example 2
 
 - RANDOMLY DRAWN LETTERS (Consonants & Vowels)
 
@@ -34,14 +32,14 @@ In this game, two players compete to find the longest word using randomly drawn 
 
   - | **```ALGORITHM```** | 9-Letter Word
 
-## Assigned work
+## Assigned work - Part 1
 
 Starting from a randomly drawn string of 10 letters (called ```drawn_letters```), we seek to find all possible combinations (strings) of 10, then of 9, 8, 7, 6, 5, 4, 3, and finally, 2 letters that can be obtained using the letters in the string ```drawn_letters```.
 
 For example, with a string of 3 letters ```"ABC"```, we seek to obtain the following combinations of 3 and 2 letters:
 
-- ABC, ACB, BAC, BCA, CAB, CBA 
-- AB, BA, AC, CA, BC, CB
+  - ABC, ACB, BAC, BCA, CAB, CBA 
+  - AB, BA, AC, CA, BC, CB
 
 ## Steps to follow
 

@@ -14,24 +14,24 @@ In this game, two players compete to find the longest word using randomly drawn 
 
   #### Example 1
 
-- RANDOMLY DRAWN LETTERS (Consonants & Vowels)
+  Randomly drawn letters (Consonants & Vowels)
 
   - | **```C```** | **```O```** | **```E```** | **```T```** | **```G```** | **```O```** **```L```** | **```Y```** | **```H```** | **```N```** |
 
-- LONGEST WORD(s) (Displaying one word)
+  Longest word(s) (Displaying one word)
 
-  - | **```TECHNOLOGY```** | 10-Letter Word
-
+  - <span style="font-size:16px;">**```TECHNOLOGY```** </span> | 10-Letter Word
+- 
   #### Example 2
 
-- RANDOMLY DRAWN LETTERS (Consonants & Vowels)
+  Randomly drawn letters (Consonants & Vowels)
 
   - | **```I```** | **```M```** | **```A```** | **```H```** | **```G```** | **```O```** **```T```** | **```T```** | **```L```** | **```R```** |
 
-- LONGEST WORD(s) (Displaying one word)
+  Longest word(s) (Displaying one word)
 
-  - | **```ALGORITHM```** | 9-Letter Word
-
+  - <span style="font-size:16px;">**```ALGORITHM```** </span> | 9-Letter Word
+  
 ## Assigned work - Part 1
 
 Starting from a randomly drawn string of 10 letters (called ```drawn_letters```), we seek to find all possible combinations (strings) of 10, then of 9, 8, 7, 6, 5, 4, 3, and finally, 2 letters that can be obtained using the letters in the string ```drawn_letters```.

@@ -44,12 +44,12 @@ For example, with a string of 3 letters ```"ABC"```, we seek to obtain the follo
 ## Steps to follow
 
 - A string is in minimal alphabetical order if its letters satisfy the relationship: ```s[i] <= s[i+1]```
-    
-    For instance, the string ```"ABC"``` is in minimal alphabetical order.
+  
+  For instance, the string ```"ABC"``` is in minimal alphabetical order.
 
 - A string is in maximal alphabetical order if its letters satisfy the relationship: ```s[i] >= s[i+1]```
   
-    For example, ```"CBA"``` is in maximal alphabetical order.
+  For example, ```"CBA"``` is in maximal alphabetical order.
 
 - Consider the following procedure:
 
@@ -65,4 +65,4 @@ For example, with a string of 3 letters ```"ABC"```, we seek to obtain the follo
 
     - We stop when we obtain a string in maximal order.
 
-**Note:** In the second part of the project, the aim is to integrate the search in a dictionary (planar tree) to find the longest word (or all the words of n letters).
+**Note:** In the second part of the project, the aim is to integrate the search using a dictionary (planar tree) to find the longest word (or all the words of n letters).

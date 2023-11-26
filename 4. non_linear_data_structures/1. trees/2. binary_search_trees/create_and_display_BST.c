@@ -15,7 +15,7 @@ void display_tree(ptr);
 the following binary search tree (BST):
              20
             /  \
-          5    30
+           5   30
          /  \    
         4    7                                   
 */

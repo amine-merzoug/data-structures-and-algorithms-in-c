@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-// The objective in this example is to search for an item in a binary search tree (BST),
-// by whether returning (true/false) or (address/NULL).
+// The objective in this example is to search for an item in a binary search tree (BST) 
+// by returning whether (true, false) or (item_address, NULL). 
 
 typedef struct node* ptr;
 struct node{
@@ -12,13 +12,14 @@ struct node{
     ptr right;
 };
 
-
 ptr new_node(int);
 void display_tree(ptr);
 
 // function overloading not possible in this case
+
 bool find_item(ptr, int);
 ptr find_item_address(ptr, int);
+ptr find_item_address_v2(ptr, int);
 
 int main(){
     ptr root = new_node(20);
@@ -82,7 +83,7 @@ void display_tree(ptr root){
 
 // searches for an item in a BST 
 // returns true if found, otherwise false 
-// time complexity: O(log N) = O(h), where h is the height of BST
+// time complexity: O(log N) = O(h), where h is the height of BST and N is the tree size.
 bool find_item(ptr root, int item){
     if (root == NULL){
         return false;
@@ -99,7 +100,7 @@ bool find_item(ptr root, int item){
 
 // Version 1: searches for an item in a BST 
 // returns its address (pointer) if found, otherwise NULL 
-// time complexity: O(log N) = O(h), where h is the height of BST
+// time complexity: O(log N) = O(h), where h is the height of BST and N is the tree size.
 ptr find_item_address(ptr root, int item){
     if (root == NULL){
         return NULL;
@@ -116,9 +117,10 @@ ptr find_item_address(ptr root, int item){
     }
 }
 
-// Version 2: searches for an item in a BST 
+// In this second version, we just changed the writing of the algorithm.
+// searches for an item in a BST 
 // returns its address (pointer) if found, otherwise NULL 
-// time complexity: O(log N) = O(h), where h is the height of BST
+// time complexity: O(log N) = O(h), where h is the height of BST and N is the tree size.
 ptr find_item_address_v2(ptr root, int item){
     if (root == NULL || root->data == item){
         return root;

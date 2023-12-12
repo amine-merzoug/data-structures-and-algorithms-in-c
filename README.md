@@ -1,24 +1,20 @@
 # Data Structures and Algorithms with C/C++
 
-## <span style="color:brown;">Important Announcements</span>
+## <span style="color:brown;"> Announcements - Update Dec 12, 2023</span>
 
-- <span style="color:green;">**To all Groups (01, 04, 06, 07, 08, and 09).**</span>
-  - <ins>**Cancellation of lab sessions (TPs).**</ins>
+- <span style="color:green;">**To all groups (01, 04, 06, 07, 08, and 09).**</span>
+  - <ins> **Important:**</ins> **Resumption of lab sessions (TPs) on Wednesday, December 13, 2023.**
   
-  - I inform you that I will be absent during the period from <ins>December 2 to December 11, 2023</ins>.
 
-  - Note that I might not be able to answer your questions via email during this period. But I'll do my best whenever possible.
-
-  - Keep practicing and keep skilling up... :-)
-
-- <span style="color:green;">**To Groups 01, 06, 08, and 09.**</span>
-  - <ins>**Cancellation of lab sessions (TPs) tomorrow, Wednesday, November 29, 2023.**</ins>
+- <span style="color:green;">**To all groups (01, 04, 06, 07, 08, and 09).**</span>
   
-  - I have already pushed the second part of the longest-word project to this repository. You can check it out [here](6.%20final_projects/longest_word/part_2/).  
+  - The topic of the first final project (Mastermind) can be found [here](6.%20final_projects/mastermind/). 
+  
+  - The topic of the second final project (Longest Word) can be found here: [Part 1](6.%20final_projects/longest_word/part_1/) and [Part 2](6.%20final_projects/longest_word/part_1/). 
 
-  - I have also pushed some implemented examples related to binary search trees (BSTs). You can practice them [here](./4.%20non_linear_data_structures/1.%20trees/2.%20binary_search_trees/). 
+  - Please read and understand carefully the topic of each project before starting the implementation.
 
-  - If you have any questions or concerns, please feel free to contact me at: [amine.merzoug@univ-batna2.dz](mailto:amine.merzoug@univ-batna2.dz)
+  - If you have any questions or concerns, please do not hesitate to contact me at [amine.merzoug@univ-batna2.dz](mailto:amine.merzoug@univ-batna2.dz)
 
 
 ---

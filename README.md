@@ -10,7 +10,7 @@
   
   - The topic of the first final project (Mastermind) can be found [here](6.%20final_projects/mastermind/). 
   
-  - The topic of the second final project (Longest Word) can be found here: [Part 1](6.%20final_projects/longest_word/part_1/) and [Part 2](6.%20final_projects/longest_word/part_1/). 
+  - The topic of the second final project (Longest Word) can be found here: [Part 1](6.%20final_projects/longest_word/part_1/) and [Part 2](6.%20final_projects/longest_word/part_2/). 
 
   - Please read and understand carefully the topic of each project before starting the implementation.
 

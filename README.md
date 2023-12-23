@@ -18,7 +18,7 @@
   - The topics of the first and second projects can be found here:
     - [Mastermind](6.%20final%20projects/mastermind/). 
   
-    - Longest Word: [Part 1](6.%20final_projects/longest%20word/part%201/) and [Part 2](6.%20final%20projects/longest%20word/part%202/). 
+    - Longest Word: [Part 1](6.%20final%20projects/longest%20word/part%201/) and [Part 2](6.%20final%20projects/longest%20word/part%202/). 
 
     Please read and understand carefully the topic of each project before starting the implementation. If you have questions or concerns, do not hesitate to contact me at <[amine.merzoug@univ-batna2.dz](mailto:amine.merzoug@univ-batna2.dz)>
 

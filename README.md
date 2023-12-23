@@ -44,17 +44,17 @@
 2. Linear data structures
    - Arrays
    - Strings
-   - Linked lists
+   - Linked lists: singly, doubly, and circular
    - Stacks
    - Queues
    - Sets
 3. Non-linear data structures
-   - Trees
+   - Trees: binary trees, binary search trees, AVLs
    - Graphs
-4. Dynamic programming
 5. Algorithms
    - Searching algorithms
    - Sorting algorithms
+   - Dynamic programming
 6. Quizzes
 7. Final projects
    - Mastermind

@@ -56,8 +56,8 @@
    - Graphs
 4. Dynamic programming
 5. Algorithms
-   1. Searching algorithms
-   2. Sorting algorithms
+   - Searching algorithms
+   - Sorting algorithms
 6. Quizzes
 7. Final projects
    - Mastermind

@@ -1,20 +1,27 @@
 # Data Structures and Algorithms with C/C++
 
-## <span style="color:brown;"> Announcements - Update Dec 12, 2023</span>
-
-- <span style="color:green;">**To all groups (01, 04, 06, 07, 08, and 09).**</span>
-  - <ins> **Important:**</ins> **Resumption of lab sessions (TPs) on Wednesday, December 13, 2023.**
-  
+## <span style="color:brown;"> Announcements - Update Dec 23, 2023</span>
 
 - <span style="color:green;">**To all groups (01, 04, 06, 07, 08, and 09).**</span>
   
-  - The topic of the first final project (Mastermind) can be found [here](6.%20final_projects/mastermind/). 
+   - You have two projects to submit: **Mastermind** and **Longest Word**.
+
+   - Do not send the source code via email. Instead, the procedure is as follows:
+      - Create a GitHub account.
+      - Create a repository for each project.
+      - Then, using git commands (`git init`, `git add`, `git commit`, `git push`, etc.), push the source to the created repo.
+
+   - <u>**Deadline:**<\u> You still have time to work on both projects. The validation of these two projects will be in person **after the final exams**.
+
+   ---
+
+  - The topic of the first project (Mastermind) can be found [here](6.%20final_projects/mastermind/). 
   
-  - The topic of the second final project (Longest Word) can be found here: [Part 1](6.%20final_projects/longest_word/part_1/) and [Part 2](6.%20final_projects/longest_word/part_2/). 
+  - The topic of the second project (Longest Word) can be found here: [Part 1](6.%20final_projects/longest_word/part_1/) and [Part 2](6.%20final_projects/longest_word/part_2/). 
 
   - Please read and understand carefully the topic of each project before starting the implementation.
 
-  - If you have any questions or concerns, please do not hesitate to contact me at [amine.merzoug@univ-batna2.dz](mailto:amine.merzoug@univ-batna2.dz)
+  - If you have questions or concerns, do not hesitate to contact me at [amine.merzoug@univ-batna2.dz](mailto:amine.merzoug@univ-batna2.dz)
 
 
 ---
@@ -38,19 +45,22 @@
 
 1. Recursion
 2. Dynamic programming
-3. Linear data structures
+3. Algorithms
+   1. Searching algorithms
+   2. Sorting algorithms
+4. Linear data structures
    - Arrays
    - Strings
    - Linked lists
    - Stacks
    - Queues
    - Sets
-4. Non-linear data structures
+5. Non-linear data structures
    - Trees
    - Graphs
-5. Quizzes
-6. Final projects
+6. Quizzes
+7. Final projects
    - Mastermind
-   - Longest-word
+   - Longest word
 
-To be finished...
+This repo is a work in progress. More resources will be added soon.

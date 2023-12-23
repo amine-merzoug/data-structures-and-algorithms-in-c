@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Quiz: Parameter passing to functions - Pass by value and pass by pointer.
+// Quiz: Parameter passing to functions (Pass by value and pass by pointer/address).
 // Try to find the output of this program before running it.
 
 void mystery(int *y, int z, int *x){

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
   
-// Quiz: Dynamic variables - Dynamic memory allocation.
+// Quiz: Dynamic variables (Dynamic memory allocation).
 // Try to find the output of this program before running it.
 
 void test_function(int **a);

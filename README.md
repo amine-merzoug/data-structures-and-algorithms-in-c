@@ -13,7 +13,7 @@
 
    - **Deadline:** You still have time to work on both projects. The validation of these two projects will be in person **after the final exams**.
 
-   ---
+      ---
 
   - The topics of the first and second projects can be found here:
     - [Mastermind](6.%20final_projects/mastermind/). 

@@ -1,6 +1,6 @@
 # Data Structures and Algorithms with C/C++
 
-## <span style="color:brown;"> Announcements - Update Dec 23, 2023</span>
+## <span style="color:brown;"> Announcements - Update Dec 26, 2023</span>
 
 - <span style="color:green;">**To all groups (01, 04, 06, 07, 08, and 09).**</span>
 

@@ -18,7 +18,7 @@
    - Do not send the source code via email. Instead, the procedure is as follows:
       - Create a GitHub account.
       - Create a repository for each project.
-      - Then, using git commands, push the source to the created repo (`git init`, `git add`, `git commit`, `git push`, etc.).
+      - Then, using git commands (`git init`, `git add`, `git commit`, `git push`, etc.), push the source to the created repo.
 
   **3. Project Deadline**
 
@@ -64,4 +64,4 @@
    - Mastermind
    - Longest word
 
-This repo is a work in progress. More resources will be added soon.
+This repo is a work in progress. More resources will be added progressively.

@@ -4,23 +4,22 @@
 
 - <span style="color:green;">**To all groups (01, 04, 06, 07, 08, and 09).**</span>
 
-  **1. Project Topic**
+  **1/ Project Topic**
 
   - You have two projects to submit: **Mastermind** and **Longest Word**. The topics of these projects can be found here:
     - [Mastermind](6.%20final%20projects/mastermind/)
-  
     - Longest Word: [Part 1](6.%20final%20projects/longest%20word/part%201/) and [Part 2](6.%20final%20projects/longest%20word/part%202/)
+   
+   - The projects are explained in detail in the provided links. Please read and understand carefully the topic of each project before starting the implementation. If you have questions or concerns, do not hesitate to contact me at: [amine.merzoug@univ-batna2.dz](mailto:amine.merzoug@univ-batna2.dz)
 
-   - The projects are explained in detail in the provided links. Please read and understand carefully the topic of each project before starting the implementation. If you have questions or concerns, do not hesitate to contact me at <[amine.merzoug@univ-batna2.dz](mailto:amine.merzoug@univ-batna2.dz)>
-
-  **2. Project Submission**
+  **2/ Project Submission**
 
    - Do not send the source code via email. Instead, the procedure is as follows:
-      - Create a GitHub account.
-      - Create a repository for each project.
-      - Then, using git commands (`git init`, `git add`, `git commit`, `git push`, etc.), push the source to the created repo.
+      1) Create a GitHub account.
+      2) Create a repository for each project.
+      3) Then, using git commands (`git init`, `git add`, `git commit`, `git push`, etc.), push the source to the created repo.
 
-  **3. Project Deadline**
+  **3/ Project Deadline**
 
    - You still have time to work on both projects. The validation of these two projects will be in person **after the final exams**.
    - The exact date will be communicated later.

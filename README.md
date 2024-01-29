@@ -1,29 +1,33 @@
 # Data Structures and Algorithms with C/C++
 
-## <span style="color:brown;"> Announcements - Update Dec 26, 2023</span>
+## <span style="color:brown;"> Announcements - Update Jan 29, 2024</span>
 
-- <span style="color:green;">**To all groups (01, 04, 06, 07, 08, and 09).**</span>
+- <span style="color:green;">**To all groups.**</span>
 
-  **1/ Project Topic**
-
-  - You have two projects to submit: **Mastermind** and **Longest Word**. The topics of these projects can be found here:
-    - [Mastermind](6.%20final%20projects/mastermind/)
-    - Longest Word: [Part 1](6.%20final%20projects/longest%20word/part%201/) and [Part 2](6.%20final%20projects/longest%20word/part%202/)
-   
-   - The projects are explained in detail in the provided links. Please read and understand carefully the topic of each project before starting the implementation. If you have questions or concerns, do not hesitate to contact me at: [amine.merzoug@univ-batna2.dz](mailto:amine.merzoug@univ-batna2.dz)
-
-  **2/ Project Submission**
-
-   - Do not send the source code via email. Instead, the procedure is as follows:
+  **1/ Project Submission**
+ 
+  - Projects sent via email will not be taken into consideration. Instead:
       1) Create a GitHub account.
       2) Create a repository for each project.
-      3) Then, using git commands (`git init`, `git add`, `git commit`, `git push`, etc.), push the source to the created repo.
+      3) Then, using git commands, push the source to the created repos.
 
-  **3/ Project Deadline**
+  **2/ Project Validation**
 
-   - You still have time to work on both projects. The validation of these two projects will be in person **after the final exams**.
-   - The exact date will be communicated later.
+   **Date:** Tuesday January 30 2024
 
+   **Location:** A1
+
+  **The validation of the projects is not mandatory**. 
+  
+   - The mark of your practical work has already been calculated as follows:
+  
+      [12 (written test) + 8 pts (presence)] / 20.
+
+   - However: 
+      - If you'd like to discuss your work and get feedback, feel free to come to the validation even if you obtained 20/20 as a practical work mark. 
+      - Bring a laptop with you and make sure that everything is working properly (Code, Git, Github, etc.)
+      - No need to show up and waste your time, if you copied the code from someone or somewhere.
+  
 ---
 
 ## Useful links 

@@ -13,20 +13,22 @@
 
   **2/ Project Validation**
 
-   **Date:** Tuesday January 30 2024
-
+   **Date:** Tuesday, Jan 30 2024
+   
+   **Time:** 9:00 AM
+   
    **Location:** A1
 
   **The validation of the projects is not mandatory**. 
-  
+
    - The mark of your practical work has already been calculated as follows:
   
       [12 (written test) + 8 pts (presence)] / 20.
 
    - However: 
       - If you'd like to discuss your work and get feedback, feel free to come to the validation even if you obtained 20/20 as a practical work mark. 
-      - Bring a laptop with you and make sure that everything is working properly (Code, Git, Github, etc.)
-      - No need to show up and waste your time, if you copied the code from someone or somewhere.
+      - Bring a laptop with you and make sure that everything is working properly (code, git, github, etc.)
+      - No need to show up and waste time, if you copied the code from someone or somewhere.
   
 ---
 

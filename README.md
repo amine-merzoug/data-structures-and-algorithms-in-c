@@ -1,37 +1,5 @@
 # Data Structures and Algorithms with C/C++
 
-## <span style="color:brown;"> Announcements - Update Jan 29, 2024</span>
-
-- <span style="color:green;">**To all groups.**</span>
-
-  **1/ Project Submission**
- 
-  - Projects sent via email will not be taken into consideration. Instead:
-      - Create a GitHub account.
-      - Create a repository for each project.
-      - Then, using git commands, push the source to the created repos.
-
-  **2/ Project Validation**
-
-   - **Date:** Tuesday, Jan 30 2024
-   
-   - **Time:** 9:00 AM
-   
-   - **Location:** A1 or Teacher's Office (TBD)
-
-  **The validation of the projects is not mandatory**. 
-
-   - The mark of your practical work has already been calculated as follows:
-  
-      [12 (written test) + 8 pts (presence)] / 20.
-
-   - However: 
-      - If you'd like to discuss your work and get feedback, feel free to come to the validation even if you obtained 20/20 as a practical work mark. 
-      - Bring a laptop with you and make sure that everything is working properly (code, git, github, etc.).
-      - No need to show up and waste time if you copied the code from someone or somewhere.
-  
----
-
 ## Useful links 
 
 - [Python Tutor](https://pythontutor.com) online compiler, visual debugger, and AI tutor for C/C++, Python, Java, and JavaScript.

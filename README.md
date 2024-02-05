@@ -1,4 +1,4 @@
-# Data Structures and Algorithms with C/C++
+# Data Structures and Algorithms in C/C++
 
 ## Useful links 
 
@@ -26,14 +26,25 @@
    - Queues
    - Sets
 3. Non-linear data structures
-   - Trees: binary trees, binary search trees, AVLs
+   - Trees
+     - binary trees
+     - binary search trees
+     - AVLs
    - Graphs
-5. Algorithms
+     - BFS
+     - DFS
+4. Algorithms
    - Searching algorithms
+     - Linear Search
+     - Binary Search
    - Sorting algorithms
+     - Selection sort
+     - Insertion sort
+     - Bubble sort
+     - Merge sort
    - Dynamic programming
-6. Quizzes
-7. Final projects
+5. Quizzes
+6. Final projects
    - Mastermind
    - Longest word
 

@@ -1,4 +1,4 @@
-# Data Structures and Algorithms in C/C++
+# Data Structures and Algorithms in C
 
 ## Useful links 
 
@@ -12,8 +12,12 @@
 
 - [LeetCode](https://leetcode.com/) online platform for coding interview preparation. It offers a collection of coding challenges to help users improve their programming and problem-solving skills.
 
-
 ---
+
+## Books
+
+- [Types de Données et Algorithmes](https://www.lri.fr/~chris/LivreAlgorithmique/FroidevauxGaudelSoria.pdf) (in French)
+
 
 ## Table of Contents
 

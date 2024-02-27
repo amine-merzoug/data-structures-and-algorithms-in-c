@@ -18,6 +18,7 @@
 
 - [Types de Données et Algorithmes](https://www.lri.fr/~chris/LivreAlgorithmique/FroidevauxGaudelSoria.pdf) (in French)
 
+---
 
 ## Table of Contents
 

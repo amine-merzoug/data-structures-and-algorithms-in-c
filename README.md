@@ -22,9 +22,11 @@
 
 ## Table of Contents
 
+0. Programming Basics
 1. Recursion
 2. Linear data structures
    - Arrays
+   - Matrices
    - Strings
    - Linked lists: singly, doubly, and circular
    - Stacks
@@ -32,8 +34,8 @@
    - Sets
 3. Non-linear data structures
    - Trees
-     - binary trees
-     - binary search trees
+     - Binary trees
+     - Binary search trees
      - AVLs
    - Graphs
      - BFS
